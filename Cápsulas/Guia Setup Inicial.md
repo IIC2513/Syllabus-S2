@@ -97,9 +97,14 @@ Te recomendamos instalar nvm con Homebrew:
 brew update
 brew install nvm
 ```
+Tenemos que exponer nvm al sistema para que sea posible acceder de manera global
+```
+source $(brew --prefix nvm)/nvm.sh
+```
+
 Para verificar la instalación puedes correr:
 ```
-nvm ls
+nvm --version
 ```
 Finalmente, para instalar la versión de node deseada:
 ```
