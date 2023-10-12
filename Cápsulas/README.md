@@ -17,10 +17,20 @@
 | Cápsula 3 Parte 2 - Rutas en React | [video](https://youtu.be/hLiv-BrT7yg) | [código](https://github.com/IIC2513/guess-who/pull/3) |E2 |
 | Cápsula 3 Parte 3 - Componentes en React | [video](https://youtu.be/CtArvhFxcQY) | [código](https://github.com/IIC2513/guess-who/pull/5) |E2 |
 | Cápsula 3 Parte 4 - Hooks en React | [video](https://youtu.be/xAMNphr05tI) | [código](https://github.com/IIC2513/guess-who/pull/4 ) |E2 |
+| Cápsula 7 - Conexión a la API | [video](https://youtu.be/6KXGL4paSpg) | [código back](https://github.com/IIC2513/guess-who-backend/pull/4) [código front](https://github.com/IIC2513/guess-who/pull/6)|
 
 
-
-
+## Back
+| Nombre        | Video         | Otro material|
+| ------------- | ------------- | ------------- |
+| Cápsula 4 - Intro a Koa y MVC | [video](https://youtu.be/_Y2Ubo_7YMM) | [código](https://github.com/IIC2513/guess-who-backend/pull/1) |
+| Cápsula 5 Parte 1 - Routing | [video](https://youtu.be/-d7iE3LXA_4) | [código](https://github.com/IIC2513/guess-who-backend/pull/2) |
+| Cápsula 5 Parte 2 - Routing | [video](https://youtu.be/6bO2slq2Hxo) | [código](https://github.com/IIC2513/guess-who-backend/pull/2) |
+| Cápsula Anexa - ESM vs CommonJS | [video](https://www.loom.com/share/dab0a46052fb4012829cf4fd587973af) | [código]() |
+| Cápsula 6 Parte 1 - Sequelize Explicación y Configuración | [video](https://youtu.be/bZ__u-G-uqQ) | [código]() |
+| Cápsula 6 Parte 2 - Modelo ER | [video](https://youtu.be/VivD89_ys3I) | [código](), [migraciones](https://medium.com/@andrewoons/how-to-define-sequelize-associations-using-migrations-de4333bf75a7) |
+| Cápsula 6 Parte 3 - Finders| [video](https://youtu.be/QCgh936jnKs) | [código]() |
+| Cápsula 6 Parte 4 - Validaciones y Restricciones | [video](https://youtu.be/dGcZAZyn4HU) | [código]() |
 
 
 
