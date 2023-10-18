@@ -27,7 +27,7 @@
 | Cápsula 5 Parte 1 - Routing | [video](https://youtu.be/-d7iE3LXA_4) | [código](https://github.com/IIC2513/guess-who-backend/pull/2) |E3 |
 | Cápsula 5 Parte 2 - Routing | [video](https://youtu.be/6bO2slq2Hxo) | [código](https://github.com/IIC2513/guess-who-backend/pull/2) |E3 |
 | Cápsula Anexa - ESM vs CommonJS | [video](https://www.loom.com/share/dab0a46052fb4012829cf4fd587973af) | [código]() |E3 |
-| Cápsula 6 Parte 1 - Sequelize Explicación y Configuración | [video](https://youtu.be/bZ__u-G-uqQ) | [código]() |E3 |
+| Cápsula 6 Parte 1 - Sequelize Explicación y Configuración | [video](https://youtu.be/bZ__u-G-uqQ) | [código](https://github.com/IIC2513/guess-who-backend/pull/3) |E3 |
 | Cápsula 6 Parte 2 - Modelo ER | [video](https://youtu.be/VivD89_ys3I) | [código](), [migraciones](https://medium.com/@andrewoons/how-to-define-sequelize-associations-using-migrations-de4333bf75a7) |E3 |
 | Cápsula 6 Parte 3 - Finders| [video](https://youtu.be/QCgh936jnKs) | [código]() |E3 |
 | Cápsula 6 Parte 4 - Validaciones y Restricciones | [video](https://youtu.be/dGcZAZyn4HU) | [código]() |E3 |
