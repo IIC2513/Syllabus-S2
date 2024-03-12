@@ -24,7 +24,7 @@ Sección 2 - Hernán Cabrera
 | Tomás Tapia | [@tom4stapia] | [tomastapia@uc.cl] |
 | María Blanca Ortúzar | [@blancaortuzarm] | [blancaortuzarm@uc.cl] |
 | Eduardo Salinas | [@esalinasbarros] | [esalinasbarros@uc.cl] |
-| Krishna Chaparro | [kchaparro@uc.cl] |
+| Krishna Chaparro | [@kchaparro] | [kchaparro@uc.cl]
 
 1: Valeria S es coordinadora del curso
 
