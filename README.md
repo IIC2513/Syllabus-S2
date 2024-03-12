@@ -27,6 +27,7 @@ Sección 2 - Hernán Cabrera
 | Krishna Chaparro | [kchaparro@uc.cl] |
 
 1: Valeria S es coordinadora del curso
+Krishna Chaparro es ayudante de bienestar
 
 [@visalasc]:               https://github.com/visalasc
 [@ElTioAndresCabezas]:                 https://github.com/ElTioAndresCabezas
