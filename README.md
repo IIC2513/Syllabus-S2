@@ -1,4 +1,4 @@
-![image](https://github.com/IIC2513/Syllabus-S2/assets/37188390/ae31d2c4-db27-4ce1-b5fa-53ec624237d3)# Syllabus-S2
+# Syllabus-S2
 Sección 2 - Hernán Cabrera
 
 ## Equipo docente
