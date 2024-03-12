@@ -1,4 +1,4 @@
-# Syllabus-S2
+![image](https://github.com/IIC2513/Syllabus-S2/assets/37188390/ae31d2c4-db27-4ce1-b5fa-53ec624237d3)# Syllabus-S2
 Sección 2 - Hernán Cabrera
 
 ## Equipo docente
@@ -16,28 +16,33 @@ Sección 2 - Hernán Cabrera
 
 | Nombre | GitHub | Email |
 | :----- | :----- | :---- |
-| Valeria Riquelme¹ | [@valeeeriquelme] | [vsriquelme@uc.cl] |
 | Valeria Salas¹ | [@visalasc] | [visalas@uc.cl] |
-| Cristóbal Rubio | [@Corubio] | [corubio@uc.cl] |	
 | Andrés Cabezas | [@ElTioAndresCabezas] | [ascabezas@uc.cl] |
-| Matías Orbeta | [@morbeta1234] | [morbeta@uc.cl] |
 | Antonia Fuica | [@antoniafuica] | [afuica@uc.cl] |
 | Tomás Ernst | [@tomasernst] | [ternst@uc.cl] |
+| Fabián Mendoza | [@FabianMF1] | [femendoza@uc.cl] |
+| Tomás Tapia | [@tom4stapia] | [tomastapia@uc.cl] |
+| María Blanca Ortúzar | [@blancaortuzarm] | [blancaortuzarm@uc.cl] |
+| Eduardo Salinas | [@esalinasbarros] | [esalinasbarros@uc.cl] |
+| Krishna Chaparro | [kchaparro@uc.cl] |
 
-1: Valeria R y Valeria S son coordinadoras del curso
+1: Valeria S es coordinadora del curso
 
-[@valeeeriquelme]:                https://github.com/valeeeriquelme
 [@visalasc]:               https://github.com/visalasc
-[@Corubio]:           https://github.com/Corubio
 [@ElTioAndresCabezas]:                 https://github.com/ElTioAndresCabezas
-[@morbeta1234]:               https://github.com/morbeta1234
 [@antoniafuica]:                  https://github.com/antoniafuica
 [@tomasernst]:                 https://github.com/tomasernst
+[@FabianMF1]:                 https://github.com/FabianMF1
+[@tom4stapia]:                  https://github.com/tom4stapia
+[@blancaortuzarm]:                 https://github.com/blancaortuzarm
+[@esalinasbarros]:                 https://github.com/esalinasbarros
 
-[vsriquelme@uc.cl]:    mailto:vsriquelme@uc.cl
 [visalas@uc.cl]:         mailto:visalas@uc.cl
-[corubio@uc.cl]:          mailto:corubio@uc.cl
 [ascabezas@uc.cl]:           mailto:ascabezas@uc.cl
-[morbeta@uc.cl]:        mailto:morbeta@uc.cl
 [afuica@uc.cl]:        mailto:afuica@uc.cl
 [ternst@uc.cl]:    mailto:ternst@uc.cl
+[femendoza@uc.cl]:   mailto:femendoza@uc.cl
+[tomastapia@uc.cl]:     mailto:tomastapia@uc.cl
+[blancaortuzarm@uc.cl]:    mailto:blancaortuzarm@uc.cl
+[esalinasbarros@uc.cl]:    mailto:esalinasbarros@uc.cl
+[kchaparro@uc.cl]:    mailto:kchaparro@uc.cl
