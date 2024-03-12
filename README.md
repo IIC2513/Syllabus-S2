@@ -26,8 +26,8 @@ Sección 2 - Hernán Cabrera
 | Eduardo Salinas | [@esalinasbarros] | [esalinasbarros@uc.cl] |
 | Krishna Chaparro | [kchaparro@uc.cl] |
 
-1: Valeria S es coordinadora del curso
-Krishna Chaparro es ayudante de bienestar
+| 1: Valeria S es coordinadora del curso |
+| Krishna Chaparro es ayudante de bienestar |
 
 [@visalasc]:               https://github.com/visalasc
 [@ElTioAndresCabezas]:                 https://github.com/ElTioAndresCabezas
