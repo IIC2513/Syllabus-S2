@@ -3,7 +3,7 @@
 ## General 
 | Nombre        | Video         | Otro material|
 | ------------- | ------------- | ------------- |
-| Guía 1 - Setup Inicial  | -  | [guía](https://github.com/IIC2513/Syllabus-S2/blob/main/C%C3%A1psulas/Guia%20Setup%20Inicial.md) |
+| Guía 1 - Setup Inicial  | [video](https://www.youtube.com/watch?v=6JH7i2LwfLE)  | [guía](https://github.com/IIC2513/Syllabus-S2/blob/main/C%C3%A1psulas/Guia%20Setup%20Inicial.md) |
 | Cápsula 1 - Git y Github  | [video](https://www.youtube.com/watch?v=uCaIkK-NEd0)  | [guía platanus](https://la-guia.platan.us/setup/configuracion_de_proyectos/git), [guía angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines) |
 | Cápsula Anexa - Set up de postgres | [video](https://www.loom.com/share/f648d62b3f304b839728e189f9583ef3) | | 
 | Cápsula Anexa - Eslint  | [video](https://www.loom.com/share/12fe1b244ae7458b96d1a37b045db06e)  | |
