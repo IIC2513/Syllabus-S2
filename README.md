@@ -46,7 +46,7 @@ Sección 2 - Hernán Cabrera
 [kchaparro@uc.cl]:    mailto:kchaparro@uc.cl
 [femendoza@uc.cl]:   mailto:femendoza@uc.cl
 [tomastapia@uc.cl]:     mailto:tomastapia@uc.cl
-[blancaortuzarm@uc.cl]:    mailto:bortuzarm@uc.cl
+[bortuzarm@uc.cl]:    mailto:bortuzarm@uc.cl
 [esalinasbarros@uc.cl]:    mailto:esalinasbarros@uc.cl
 [javiera.azcar@uc.cl]:    mailto:javiera.azcar@uc.cl
 [jmjouanne@uc.cl]:    mailto:jmjouanne@uc.cl
