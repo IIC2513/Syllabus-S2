@@ -20,7 +20,7 @@ Sección 2 - Hernán Cabrera
 | Krishna Chaparro² | [@KrishnaChaparro] | [kchaparro@uc.cl]
 | Fabián Mendoza | [@FabianMF1] | [femendoza@uc.cl] |
 | Tomás Tapia | [@tom4stapia] | [tomastapia@uc.cl] |
-| María Blanca Ortúzar | [@blancaortuzarm] | [blancaortuzarm@uc.cl] |
+| María Blanca Ortúzar | [@blancaortuzarm] | [bortuzarm@uc.cl] |
 | Eduardo Salinas | [@esalinasbarros] | [esalinasbarros@uc.cl] |
 | Javiera Azócar | [@JaviPeace] | [javiera.azcar@uc.cl] |
 | José Manuel Jouanne | [@JManuelJouanne] | [jmjouanne@uc.cl] |
@@ -46,7 +46,7 @@ Sección 2 - Hernán Cabrera
 [kchaparro@uc.cl]:    mailto:kchaparro@uc.cl
 [femendoza@uc.cl]:   mailto:femendoza@uc.cl
 [tomastapia@uc.cl]:     mailto:tomastapia@uc.cl
-[blancaortuzarm@uc.cl]:    mailto:blancaortuzarm@uc.cl
+[blancaortuzarm@uc.cl]:    mailto:bortuzarm@uc.cl
 [esalinasbarros@uc.cl]:    mailto:esalinasbarros@uc.cl
 [javiera.azcar@uc.cl]:    mailto:javiera.azcar@uc.cl
 [jmjouanne@uc.cl]:    mailto:jmjouanne@uc.cl
