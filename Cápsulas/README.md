@@ -37,5 +37,6 @@
 | Cápsula 8 Parte 2 - JWT para manejo de sesión y permisos (Backend) | [video](https://www.youtube.com/watch?v=qBsZU-qve1Y) | [código](https://github.com/IIC2513/guess-who-backend/pull/5) |E3 |
 | Cápsula 8 Anexo - Bcrypt para hashear contraseñas | [video](https://www.youtube.com/watch?v=4uwLm7zlaMM) | |E3 |
 | Cápsula 9 - Deploy a Render | [video](https://www.youtube.com/watch?v=S9krVSTIlSo&t=1622s) | |E3 |
+| Cápsula 10 - WebSockets (Front y Back) | [video](https://www.youtube.com/watch?v=C5dPZCE1VZs) | [código](https://github.com/tom4stapia/ejemplo-web-sockets?tab=readme-ov-file) | E4 |
 
 
