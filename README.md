@@ -43,3 +43,10 @@ Sección 2 - Hernán Cabrera
 [esalinasbarros@uc.cl]:    mailto:esalinasbarros@uc.cl
 [blflores@uc.cl]:    mailto:blflores@uc.cl
 [mjceronu@uc.cl]:    mailto:mjceronu@uc.cl
+[xaviera.jorquera@uc.cl]:    mailto:xaviera.jorquera@uc.cl
+[javierapalacio@uc.cl]:    mailto:javierapalacio@uc.cl
+[felipe.valderrama@uc.cl]:    mailto:felipe.valderrama@uc.cl
+[gstanke@uc.cl]:    mailto:gstanke@uc.cl
+[mdandaur@uc.cl]:    mailto:mdandaur@uc.cl
+[vicente.antonio@uc.cl]:    mailto:vicente.antonio@uc.cl
+
