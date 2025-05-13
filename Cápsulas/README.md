@@ -7,6 +7,7 @@
 | Cápsula 1 - Git y Github  | [video](https://www.youtube.com/watch?v=uCaIkK-NEd0)  | [guía platanus](https://la-guia.platan.us/setup/configuracion_de_proyectos/git), [guía angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines) |
 | Cápsula Anexa - Set up de postgres | [video](https://www.loom.com/share/f648d62b3f304b839728e189f9583ef3) | | 
 | Cápsula Anexa - Eslint  | [video](https://youtu.be/UjlpclV2anc)  | [codigo](https://github.com/IIC2513/Syllabus-S2/blob/main/C%C3%A1psulas/Config%20ESLint.md) |
+| Cápsula Docker  | [video]( https://uccl0-my.sharepoint.com/personal/felipe_valderrama_uc_cl/_layouts/15/stream.aspx?id=%2Fpersonal%2Ffelipe%5Fvalderrama%5Fuc%5Fcl%2FDocuments%2FRecordings%2Fayudantia%20docker%2D20250508%5F174904%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ct=1747142781444&or=OWA%2DNT%2DMail&cid=6438368e%2D6784%2D4957%2Dc34d%2Ddc6a5cd3b418&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E73d872a5%2De5e4%2D4181%2Db533%2D76e3c4674b39&isDarkMode=true)  | 
 
 ## Back
 | Nombre        | Video         | Otro material| Entrega |
