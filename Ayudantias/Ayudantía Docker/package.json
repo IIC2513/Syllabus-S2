@@ -1,0 +1,22 @@
+{
+  "name": "koa-api-example",
+  "version": "1.0.0",
+  "description": "A simple Koa API example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.15.3",
+    "koa-router": "^12.0.1",
+    "sequelize": "^6.37.3",
+    "pg": "^8.11.5"
+  }
+}

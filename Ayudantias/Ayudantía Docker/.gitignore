@@ -1,0 +1,5 @@
+.env
+node_modules/
+npm-debug.log
+.dockerignore
+.DS_Store
