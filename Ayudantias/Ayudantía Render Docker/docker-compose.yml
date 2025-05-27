@@ -1,0 +1,39 @@
+
+services:
+  app:
+    build: # el relative path del Dockerfile que corre la app
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3001:3001"
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      NODE_ENV: development
+      DB_HOST: ${DB_HOST}
+      DB_USER: ${DB_USER}
+      DB_PASSWORD: ${DB_PASSWORD}
+      DB_NAME: ${DB_NAME}
+    volumes: # Una carpeta en nuestra máquina local para el código fuente, permite a docker guardar los cambios y hacer hot reload
+      - .:/usr/src/app
+      - /usr/src/app/node_modules # Mount a volume for node_modules to prevent local modules from overwriting container modules
+
+  db:
+    image: postgres:13-alpine # Imagen de Postgres
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U user -d app_dev"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    environment: # Las variables de entorno para la base de datos
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: app_dev
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data:
