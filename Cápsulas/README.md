@@ -38,6 +38,7 @@
 | Cápsula 3 Parte 3 - Componentes en React | [video](https://youtu.be/CtArvhFxcQY) | [código](https://github.com/IIC2513/guess-who/pull/5) | E3 |
 | Cápsula 3 Parte 4 - Hooks en React | [video](https://youtu.be/xAMNphr05tI) | [código](https://github.com/IIC2513/guess-who/pull/4 ) |E3 |
 | Cápsula 7 - Conexión a la API | [video](https://youtu.be/6KXGL4paSpg) | [código back](https://github.com/IIC2513/guess-who-backend/pull/4) [código front](https://github.com/IIC2513/guess-who/pull/6)| E3 |
+|Cápsula React - hooks useState y useEffect | [video](https://youtu.be/J3VHPae5mUk) |  | E3 | 
 | Cápsula 8 Parte 3 - JWT para manejo de sesión y permisos (Frontend) | [video](https://youtu.be/o6IGdob77HQ) | [código](https://github.com/IIC2513/guess-who/pull/8)| E3 |
 |Cápsula 9 - Deploy a Netlify	 | [video](https://drive.google.com/file/d/1eiC0iQEqETUtb_w9ykAoqhAYc5wfkeJ0/view) | | E3 |
 
