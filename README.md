@@ -25,6 +25,7 @@ Sección 2 - Hernán Cabrera
 | Guillermo Stanke | [@GuilleStanke] | [gstanke@uc.cl] |
 | Olivia LLanos | [@oliviallanosj] | [olivia.llanos@uc.cl] |
 | Martín Tuset | [@martintuset] | [martintuset@uc.cl] |
+
 1: Valeria Salas es la ayudante coordinadora del curso
 
 2: Javiera Donoso es la ayudante de bienestar
