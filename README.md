@@ -16,37 +16,88 @@ Sección 2 - Hernán Cabrera
 
 | Nombre | GitHub | Email |
 | :----- | :----- | :---- |
-| Valeria Salas¹ | [@visalasc] | [visalas@uc.cl] |
-| Javiera Donoso | [@javieradonosoc] | [javieradonoso@uc.cl] |
-| Tomás Tapia | [@tom4stapia] | [tomastapia@uc.cl] |
+| Magdalena Cerón¹ | [@Magda0n] | [mjceronu@uc.cl] |
+| Javiera Donoso² | [@javieradonosoc] | [javieradonoso@uc.cl] |
 | Benjamín Flores | [@ElBenJamon] | [blflores@uc.cl] |
-| Magdalena Cerón | [@Magda0n] | [mjceronu@uc.cl] |
 | Javiera Palacio | [@javp22] | [javierapalacio@uc.cl] |
-| Guillermo Stanke | [@GuilleStanke] | [gstanke@uc.cl] |
-| Olivia LLanos | [@oliviallanosj] | [olivia.llanos@uc.cl] |
-| Martín Tuset | [@martintuset] | [martintuset@uc.cl] |
+| Juan José Meruane | [@JJ-TARS] | [jjmeruane@uc.cl] |
+| Arturo Pacheco | [@arturopachecoh] | [aipacheco@uc.cl] |
+| Emilia Martí | - | [emilia.marti@uc.cl] |
 
-1: Valeria Salas es la ayudante coordinadora del curso
+1: Magdalena Cerón es la ayudante coordinadora del curso
 
 2: Javiera Donoso es la ayudante de bienestar
 
-[@visalasc]:               https://github.com/visalasc
-[@javieradonosoc]:                  https://github.com/javieradonosoc
-[@tom4stapia]:                  https://github.com/tom4stapia
-[@ElBenJamon]:               https://github.com/ElBenJamon
 [@Magda0n]:               https://github.com/Magda0n 
-[@javp22]:               https://github.com/javp22 
-[@GuilleStanke]:               https://github.com/GuilleStanke 
-[@oliviallanosj]:               https://github.com/oliviallanosj 
-[@martintuset]:               https://github.com/martintuset 
+[@javieradonosoc]:                  https://github.com/javieradonosoc
+[@ElBenJamon]:               https://github.com/ElBenJamon
+[@javp22]:               https://github.com/javp22
+[@JJ-TARS]:               https://github.com/JJ-TARS
+[@arturopachecoh]:               https://github.com/arturopachecoh
 
-[visalas@uc.cl]:         mailto:visalas@uc.cl
-[javieradonoso@uc.cl]:         mailto:javieradonoso@uc.cl
-[tomastapia@uc.cl]:     mailto:tomastapia@uc.cl
-[blflores@uc.cl]:    mailto:blflores@uc.cl
 [mjceronu@uc.cl]:    mailto:mjceronu@uc.cl
+[javieradonoso@uc.cl]:         mailto:javieradonoso@uc.cl
+[blflores@uc.cl]:    mailto:blflores@uc.cl
 [javierapalacio@uc.cl]:    mailto:javierapalacio@uc.cl
-[gstanke@uc.cl]:    mailto:gstanke@uc.cl
-[olivia.llanos@uc.cl]:    mailto:olivia.llanos@uc.cl
-[martintuset@uc.cl]:    mailto:martintuset@uc.cl
+[jjmeruane@uc.cl]:    mailto:jjmeruane@uc.cl
+[aipacheco@uc.cl]:    mailto:aipacheco@uc.cl
+[emilia.marti@uc.cl]:    mailto:emilia.marti@uc.cl
 
+## Evaluaciones y Calificación
+
+La nota final del curso se compone de tres grandes componentes:
+
+### 1. (PI) Pruebas Individuales – 40%
+
+- 2 interrogaciones
+- 1 examen  
+- Se calcula como el **promedio simple** entre las tres evaluaciones.
+
+Este promedio corresponde a **PI**, que equivale al 40% de la nota final. **Y debe ser mayor o igual a 4,0 para aprobar**.
+
+---
+
+### 2. (NP) Proyecto Grupal – 40%
+
+El proyecto grupal contempla 4 entregas (E1, E2, E3, E4) y se calcula como promedio ponderado:
+
+NP = E1 * 0,15 + E2 * 0,25 + E3 * 0,30 + E4 * 0,30
+
+
+NP equivale al 40% de la nota final.
+
+**La última entrega de proyecto (E4) es de carácter reprobatorio, la nota debe ser mayor o igual a 3,0 para aprobar**.
+
+---
+
+### 3. (PT) Trabajos Individuales – 20%
+
+- 4 tareas individuales.
+- Se calcula como el **promedio simple** de las cuatro tareas.
+
+PT equivale al 20% de la nota final. **Y debe ser mayor o igual a 3,5 para aprobar**
+
+---
+
+## Cálculo de la Nota Final
+
+La nota final (NF) se calcula como:
+
+NF = PI * 0,4 + NP * 0,4 + PT * 0,2
+
+Para aprobar el curso se debe cumplir **todas** las siguientes condiciones:
+
+- NF ≥ 4,0  
+- PI ≥ 4,0  
+- PT ≥ 3,5  
+- E4 ≥ 3,0  
+
+Es decir, no basta con alcanzar un promedio final 4,0; también se deben cumplir los mínimos por componente indicados arriba.
+
+## Fechas de Pruebas Individuales (PI)
+
+Las fechas de las evaluaciones correspondientes a Pruebas Individuales son las siguientes:
+
+- **Interrogación 1:** 11 de abril de 2026  
+- **Interrogación 2:** 26 de mayo de 2026  
+- **Examen:** 2 de julio de 2026
