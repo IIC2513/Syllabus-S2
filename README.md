@@ -22,7 +22,7 @@ Sección 2 - Hernán Cabrera
 | Javiera Palacio | [@javp22] | [javierapalacio@uc.cl] |
 | Juan José Meruane | [@JJ-TARS] | [jjmeruane@uc.cl] |
 | Arturo Pacheco | [@arturopachecoh] | [aipacheco@uc.cl] |
-| Emilia Martí | - | [emilia.marti@uc.cl] |
+| Emilia Martí | [@emiliamarti] | [emilia.marti@uc.cl] |
 
 1: Magdalena Cerón es la ayudante coordinadora del curso
 
@@ -34,6 +34,7 @@ Sección 2 - Hernán Cabrera
 [@javp22]:               https://github.com/javp22
 [@JJ-TARS]:               https://github.com/JJ-TARS
 [@arturopachecoh]:               https://github.com/arturopachecoh
+[@emiliamarti]:               https://github.com/emiliamarti
 
 [mjceronu@uc.cl]:    mailto:mjceronu@uc.cl
 [javieradonoso@uc.cl]:         mailto:javieradonoso@uc.cl
@@ -64,7 +65,7 @@ El proyecto grupal contempla 4 entregas (E1, E2, E3, E4) y se calcula como prome
 NP = E1 * 0,15 + E2 * 0,25 + E3 * 0,30 + E4 * 0,30
 
 
-NP equivale al 40% de la nota final.
+NP equivale al 40% de la nota final. **Y debe ser mayor o igual a 4,0 para aprobar**.
 
 **La última entrega de proyecto (E4) es de carácter reprobatorio, la nota debe ser mayor o igual a 3,0 para aprobar**.
 
@@ -90,14 +91,33 @@ Para aprobar el curso se debe cumplir **todas** las siguientes condiciones:
 - NF ≥ 4,0  
 - PI ≥ 4,0  
 - PT ≥ 3,5  
+- NP ≥ 4,0
 - E4 ≥ 3,0  
 
 Es decir, no basta con alcanzar un promedio final 4,0; también se deben cumplir los mínimos por componente indicados arriba.
 
-## Fechas de Pruebas Individuales (PI)
+## Fechas de Evaluaciones
 
-Las fechas de las evaluaciones correspondientes a Pruebas Individuales son las siguientes:
+### Interrogaciones y Examen
 
 - **Interrogación 1:** 11 de abril de 2026  
 - **Interrogación 2:** 26 de mayo de 2026  
 - **Examen:** 2 de julio de 2026
+
+### Tareas Individuales
+
+| Tarea | Publicación del Enunciado | Fecha de Entrega |
+|------|----------------------------|------------------|
+| Tarea 1 | 27 de marzo de 2026 | 30 de marzo de 2026 |
+| Tarea 2 | 17 de abril de 2026 | 20 de abril de 2026 |
+| Tarea 3 | 8 de mayo de 2026 | 11 de mayo de 2026 |
+| Tarea 4 | 2 de junio de 2026 | 4 de junio de 2026 |
+
+### Entregas de Proyecto
+
+| Entrega | Fecha de Entrega |
+|------|------------------|
+| Entrega 1 | 9 de abril de 2026 | 
+| Entrega 2 | 4 de mayo de 2026 | 
+| Entrega 3 | 1 de junio de 2026 |
+| Entrega 4 | 17 de junio de 2026 |
