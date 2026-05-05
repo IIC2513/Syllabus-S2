@@ -24,7 +24,7 @@
 | Cápsula 8 Parte 1 - Intro a Autenticación, Autorización y Manejo de Sesión | [video](https://www.youtube.com/watch?v=70QJZeIk3jw) |  |E3 |
 | Cápsula 8 Parte 2 - JWT para manejo de sesión y permisos (Backend) | [video](https://www.youtube.com/watch?v=qBsZU-qve1Y) | [código](https://github.com/IIC2513/guess-who-backend/pull/5) |E3 |
 | Cápsula 8 Anexo - Bcrypt para hashear contraseñas | [video](https://www.youtube.com/watch?v=4uwLm7zlaMM) | |E3 |
-| Cápsula 10 - WebSockets (Front y Back) | [video](https://www.youtube.com/watch?v=C5dPZCE1VZs) | [código](https://github.com/tom4stapia/ejemplo-web-sockets?tab=readme-ov-file) | E3 |
+| Cápsula 10 - WebSockets (Front y Back) | - | [ppt](../Ayudantias/Ayudantías%20Semestres%20Anteriores/Intro%20Websockets.pdf) | E3 |
 | Cápsula 11 - Deploy a Render con Docker | [video](https://uccl0-my.sharepoint.com/:v:/g/personal/mjceronu_uc_cl/Ecid2IgKhs5FjlL5HPy7vOwB1i7gDHpqFfxG8b8VZ892sw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HL04eb) | [código](https://github.com/IIC2513/Syllabus-S2/tree/main/Ayudantias/Ayudant%C3%ADa%20Render%20Docker) | E3 |
 
 
