@@ -100,7 +100,7 @@ Es decir, no basta con alcanzar un promedio final 4,0; también se deben cumplir
 ### Entregas de Proyecto
 
 | Entrega | Fecha de Publicación | Fecha de Entrega |
-|------|------------------|
+|------|------------------|------------------|
 | Entrega 1 | Lunes 17 de Agosto | Domingo 30 de Agosto |
 | Entrega 2 | Lunes 31 de Agosto | Domingo 27 de Septiembre |
 | Entrega 3 | Lunes 28 de Septiembre | Domingo 18 de Octubre |
