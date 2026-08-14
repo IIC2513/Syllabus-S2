@@ -61,16 +61,16 @@ Este promedio corresponde a **PI**, que equivale al 55% de la nota final. **Y de
 
 ---
 
-### 2. (NP) Proyecto Grupal – 45%
+### 2. (PE) Proyecto Grupal – 45%
 
-El proyecto grupal contempla # entregas (por definir) y se calcula como promedio ponderado:
+El proyecto grupal contempla 5 entregas (E1, E2, E3, E4 y E5) y se calcula como promedio ponderado:
 
-NP = por definir
+PE = 0,1 * E1 + 0,2 * E2 + 0,2 * E3 + 0,2 * E4 + 0,3 * E5
 
 
-NP equivale al 45% de la nota final. **Y debe ser mayor o igual a 4,0 para aprobar**.
+PE equivale al 45% de la nota final. **Y debe ser mayor o igual a 4,0 para aprobar**.
 
-**La última entrega de proyecto () es de carácter reprobatorio, la nota debe ser mayor o igual a 3,0 para aprobar**.
+**La última entrega de proyecto (E5) es de carácter reprobatorio, la nota debe ser mayor o igual a 3,0 para aprobar**.
 
 ---
 
@@ -84,8 +84,8 @@ Para aprobar el curso se debe cumplir **todas** las siguientes condiciones:
 
 - NF ≥ 4,0  
 - PI ≥ 4,0  
-- NP ≥ 4,0
-- E ≥ 3,0  
+- PE ≥ 4,0
+- E5 ≥ 3,0  
 
 Es decir, no basta con alcanzar un promedio final 4,0; también se deben cumplir los mínimos por componente indicados arriba.
 
@@ -99,6 +99,10 @@ Es decir, no basta con alcanzar un promedio final 4,0; también se deben cumplir
 
 ### Entregas de Proyecto
 
-| Entrega | Fecha de Entrega |
+| Entrega | Fecha de Publicación | Fecha de Entrega |
 |------|------------------|
-| Entrega | Por definir | 
+| Entrega 1 | Lunes 17 de Agosto | Domingo 30 de Agosto |
+| Entrega 2 | Lunes 31 de Agosto | Domingo 27 de Septiembre |
+| Entrega 3 | Lunes 28 de Septiembre | Domingo 18 de Octubre |
+| Entrega 4 | Lunes 19 de Octubre | Domingo 08 de Noviembre |
+| Entrega 5 | Lunes 09 de Noviembre | Domingo 22 de Noviembre |
