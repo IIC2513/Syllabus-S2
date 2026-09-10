@@ -1,6 +1,6 @@
 // =============================================================================
 // CONTROLADOR DEL DOM (UI CONTROLLER) - AYUDANTÍA 4
-// Este archivo conecta los botones y la pantalla con las funciones de los alumnos.
+// Este archivo conecta los botones y la pantalla con las funciones.
 // =============================================================================
 
 // Referencias del DOM
@@ -105,7 +105,6 @@ btnParalelo.addEventListener('click', async () => {
 
     const t0 = performance.now();
     try {
-        // LLAMADA A LA FUNCIÓN DEL ALUMNO
         const posts = await obtenerPostsEnParalelo(IDS_POSTS);
         const tiempoTotal = (performance.now() - t0).toFixed(0);
 
