@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Taller 4: Async Engine Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="app-container">
+        <header class="app-header">
+            <h1>⚡ Async Engine Dashboard</h1>
+            <p>IIC2513 — Tecnologías y Aplicaciones Web | Ayudantía 4</p>
+        </header>
+
+        <main class="grid-dashboard">
+            <!-- PANEL 1: Convertir en Promesa -->
+            <section class="card">
+                <div class="card-header">
+                    <span class="badge">Punto 1</span>
+                    <h2>De Callback a Promesa</h2>
+                </div>
+                <p class="card-desc">Convierte una función con callbacks en una Promise nativa con resolve y reject.</p>
+                <div class="form-group">
+                    <label for="tokenInput">Token de autenticación:</label>
+                    <input type="text" id="tokenInput" value="TOKEN_2026" placeholder="Ingresa token">
+                </div>
+                <button id="btnToken" class="btn btn-primary">Verificar Token</button>
+                <div id="tokenResult" class="output-box">Esperando acción...</div>
+            </section>
+
+            <!-- PANEL 2: ASYNC / AWAIT + FETCH + 404 -->
+            <section class="card">
+                <div class="card-header">
+                    <span class="badge">Punto 2</span>
+                    <h2>Async / Await & Fetch</h2>
+                </div>
+                <p class="card-desc">Consulta la API de usuarios, valida <code>res.ok</code> y captura errores con
+                    <code>try/catch</code>.</p>
+                <div class="form-group">
+                    <label for="userIdInput">ID de usuario (Prueba con 1 a 10, o 9999):</label>
+                    <input type="number" id="userIdInput" value="1" min="1">
+                </div>
+                <button id="btnUser" class="btn btn-primary">Obtener Usuario</button>
+                <div id="userResult" class="output-box">Esperando consulta...</div>
+            </section>
+
+            <!-- PANEL 3: BENCHMARK PROMISE.ALL -->
+            <section class="card card-wide">
+                <div class="card-header">
+                    <span class="badge">Punto 3</span>
+                    <h2>Benchmark: Serie vs Concurrente (Promise.all)</h2>
+                </div>
+                <p class="card-desc">Descarga múltiples posts en serie (con <code>for...of</code>) y en paralelo (con
+                    <code>Promise.all</code>) para comparar tiempos.</p>
+                <div class="btn-group">
+                    <button id="btnSerie" class="btn btn-secondary">1. Ejecutar en Serie</button>
+                    <button id="btnParalelo" class="btn btn-accent">2. Ejecutar en Paralelo (Promise.all)</button>
+                </div>
+                <div class="benchmark-results">
+                    <div class="timer-box">
+                        <h3>Tiempo en Serie:</h3>
+                        <span id="timerSerie" class="timer">-- ms</span>
+                    </div>
+                    <div class="timer-box">
+                        <h3>Tiempo en Paralelo:</h3>
+                        <span id="timerParalelo" class="timer">-- ms</span>
+                    </div>
+                </div>
+                <div id="benchmarkOutput" class="output-box">Resultados de las consultas aparecerán aquí...</div>
+            </section>
+        </main>
+    </div>
+
+    <!-- IMPORTANTE: Cargamos primero la lógica asíncrona de los alumnos y luego el controlador UI -->
+    <script src="asincronia.js"></script>
+    <script src="ui.js"></script>
+</body>
+
+</html>
